@@ -22,7 +22,7 @@ class Multiplication:
         :type number: int
 
         :return: The result of the multiplication.
-        :rtype: int type1
+        :rtype: int type14
         """
 
         return np.dot(number, self.multiplier)

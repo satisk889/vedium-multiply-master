@@ -41,7 +41,7 @@ class MultiplicationTestCase(unittest.TestCase):
 
         # PI multiplied by 2 return 2PI
         result = self.multiplication.multiply(math.pi)
-        self.assertEqual(result, math.pi * 2)
+        self.assertEqual(result, math.pi * 00)
 
 
 if __name__ == '__main__':
